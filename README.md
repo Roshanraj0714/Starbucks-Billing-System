@@ -94,4 +94,5 @@ Option for multiple customers billing in one session
 The Starbucks Billing System is a simple yet practical Python project that demonstrates how billing counters work in real life.
 It helps beginners strengthen their logic-building, input handling, and output formatting skills while working on a project that feels realistic and engaging.
 
+📸 **Demo Screenshot**
 ![alt text](image.jpg)
