@@ -95,4 +95,5 @@ The Starbucks Billing System is a simple yet practical Python project that demon
 It helps beginners strengthen their logic-building, input handling, and output formatting skills while working on a project that feels realistic and engaging.
 
 📸 **Demo Screenshot**
+
 ![alt text](https://github.com/Roshanraj0714/Starbucks-Billing-System/blob/main/starbucks_billing_code.png)
